@@ -24,7 +24,9 @@ Does distance from the city centre relate to price or review activity?
 
 How do superhost listings vary across neighbourhoods?
 
-🎯 Project Objectives
+
+
+Project Objectives
 
 Clean and standardize raw Airbnb listing data.
 
@@ -38,7 +40,9 @@ Build an interactive and visually intuitive Power BI dashboard.
 
 Translate raw data into actionable business insights.
 
-🗂️ Dataset
+
+
+Dataset
 
 The project uses an Excel workbook containing two primary datasets.
 
@@ -94,7 +98,9 @@ Distance to Center (km)
 
 Distance from the city centre
 
-🛠️ Tools & Technologies
+
+
+Tools & Technologies
 
 Tool
 
@@ -120,7 +126,7 @@ GitHub
 
 Version control and project documentation
 
-🔄 Data Preparation & Transformation
+Data Preparation & Transformation
 
 The raw Airbnb data was prepared and transformed before analysis.
 
@@ -194,7 +200,9 @@ Average Distance by Neighbourhood
 
 Compares neighbourhood proximity to the city centre
 
-💡 Key Insights
+
+
+Key Insights
 
 1. Review activity differs across city zones
 
